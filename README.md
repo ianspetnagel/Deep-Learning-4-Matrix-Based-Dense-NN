@@ -4,7 +4,7 @@ Creating a matrix based dense Neural Network. I used the backpropagation algorit
 **np.dot does a dot product
 My code uses the Stochastic Gradient Descent (SGD) algorithm, (biases and wesights are updated after each input) and then I use mini Batch Gradient Descent to update W & B after each batch. 
 
-Output:
+**Output:**
 
 *Training 100 Epochs*
 
